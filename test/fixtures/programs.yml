@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyText
+  mingrade: 1.5
+  description: MyText
+  type: 
+  branch: MyString
+
+two:
+  title: MyText
+  mingrade: 1.5
+  description: MyText
+  type: 
+  branch: MyString
