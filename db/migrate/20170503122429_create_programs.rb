@@ -4,7 +4,7 @@ class CreatePrograms < ActiveRecord::Migration
       t.text :title
       t.float :mingrade
       t.text :description
-      t.string :type
+      t.string :program_type
       t.string :branch
 
       t.timestamps
